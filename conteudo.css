@@ -1,0 +1,45 @@
+main{
+    float: right;
+    width: 710px;
+    
+}
+
+section{
+    margin: auto;
+    margin-top: 30px;
+}
+
+.section_destaque{
+    width: 670px;
+    padding: 10px;
+    border: 1px solid #023373;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -8px;
+    margin-bottom: 25px;
+}
+
+.section_destaque:hover{
+    border: 2px solid #d90452;
+}
+
+.beneficios_destaque{
+    width: 140px;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+    border: solid 1px #023373;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 15px -8px black;
+}
+
+.beneficios_destaque:hover{
+    border-color: #d90452;
+    box-shadow: #d90452;
+}
+
+.beneficios_destaque img{
+    width: 100px;
+    margin-top: 10px;
+}

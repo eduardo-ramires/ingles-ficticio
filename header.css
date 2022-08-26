@@ -1,0 +1,15 @@
+header{
+    text-align: right;
+    border-radius: 5px 5px 0px 0px;
+    background: linear-gradient(to bottom, #023373, #0a50ac, #023373);
+}
+
+header h1{/*seleciona só os h1 que estão dentro do header*/
+    color: white;
+    font-size: 48px;
+
+}
+header h2{
+    font-size: 28px;
+    margin-top: -30px;
+}
